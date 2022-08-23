@@ -23,7 +23,7 @@ fun notFoundPage(host: String?): String {
                     title = """
                             Read: we're talking about a wolf 1.10m tall and 2m in length.
                             Uhh, that'll be like... 2 eagles tall and 3 washing machines in length?
-                            I don 't know, I' m not american . Use Google or something.
+                            I don't know, I'm not american. Use Google or something.
                         """.trimIndent()
                     +"big, red wolf"
                 }
